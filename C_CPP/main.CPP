@@ -3,7 +3,7 @@
 #include <math.h>
  
 int main(){
-
-    printf("%d", 25 + 23);
+    scanf("%d%d", 7 , 8);
+    printf("%d +%d");
     return 0;
 }
