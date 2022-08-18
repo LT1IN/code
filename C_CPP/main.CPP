@@ -2,12 +2,8 @@
 #include <stdlib.h>
 #include <math.h>
  
-char tin[3]= "kl";
-int age = 18;
-
-int main (){
-    printf("%s", tin);
-    printf("%d",age);
+int main(){
+    scanf("%d%d", 7 , 8);
+    printf("%d+%d");
     return 0;
-
 }
