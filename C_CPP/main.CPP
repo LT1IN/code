@@ -3,7 +3,8 @@
 #include <math.h>
  
 int main(){
-    scanf("%d%d", 7 , 8);
-    printf("%d +%d");
+    printf("hell");
+    
     return 0;
 }
+
